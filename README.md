@@ -5,7 +5,7 @@
 - Link: https://www.filemail.com/d/nesxqixozjqoasm
 
 - Once you've downloaded it:
-  1. Download the project: Click on the "Code</>" button and click on the "Download as ZIP" button at the bottom.
+  1. Download the project: Click on the green "<> Code" button and click on the "Download as ZIP" button at the bottom.
   2. Open it in Apache NetBeans.
   3. On the left panel for the projects name look for the directory "Libraries".
   4. Right click on the folder "Libraries" and click the button "Add JAR FILE/FOLDER".
