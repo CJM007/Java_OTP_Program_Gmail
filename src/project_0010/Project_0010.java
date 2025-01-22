@@ -35,8 +35,8 @@ while (userEmail.length() <= 4) { // Just some dummy data validation to make sur
         
         
         String host = "smtp.gmail.com"; // The smtp host carrier we are going to use: Gmail.
-        final String username = "kingchitambala@gmail.com"; // The email address of where the email is going to come from.
-        final String appPassword = "yrtk nhpj azms ovxu"; // App password. If you want to change where the email comes from
+        final String username = "I'll send it to you over text"; // The email address of where the email is going to come from.
+        final String appPassword = "I'll send it to you over text"; // App password. If you want to change where the email comes from
         // to your email. I need to explain something to you because it'll be too long to explain via comments.
        
         // Basically setting teh host, host port, authentication and authentication boolean.
